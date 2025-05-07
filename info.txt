@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability?resource=download
+https://www.kaggle.com/datasets/developerghost/water-potability
